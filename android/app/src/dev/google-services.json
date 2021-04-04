@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119682977028",
+    "project_id": "flavor-app-dev",
+    "storage_bucket": "flavor-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119682977028:android:1c6dae63ad40bc19ac1451",
+        "android_client_info": {
+          "package_name": "com.mobilivid.flavor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119682977028-32alouoi6aib70aoen3vu55gepupab6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1D69wWUMg-FfmDF5a7KP-Ik06oAJ5sgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119682977028-32alouoi6aib70aoen3vu55gepupab6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
